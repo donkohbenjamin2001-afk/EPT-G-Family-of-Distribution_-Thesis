@@ -150,34 +150,6 @@ Potential benchmark models include:
 * Random Forest-based estimators
 * Neural Density Estimators
 
----
-
-## Repository Structure
-
-```text
-├── data/
-│   ├── raw_data/
-│   └── processed_data/
-│
-├── R-codes/
-│   ├── eptw_pdf.R
-│   ├── eptw_cdf.R
-│   ├── eptw_quantile.R
-│   ├── eptw_entropy.R
-│   ├── eptw_skewness.R
-│   └── eptw_kurtosis.R
-│
-├── Results/
-│   ├── pdf_plots/
-│   ├── cdf_plots/
-│   ├── skewness_surfaces/
-│   └── kurtosis_surfaces/
-│
-├── Documents/
-│
-│
-└── README.md
-```
 
 ---
 
