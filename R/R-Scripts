@@ -1,1 +1,17 @@
+# R Scripts
 
+This folder contains the implementation of the Exponentiated Power Transform Weibull (EPT-W) distribution.
+
+| Script | Description |
+|----------|-------------|
+| eptw_pdf.R | Probability density function |
+| eptw_cdf.R | Cumulative distribution function |
+| eptw_survival.R | Survival function |
+| eptw_hazard.R | Hazard function |
+| eptw_quantile.R | Quantile function |
+| eptw_moments.R | Non-central moments |
+| eptw_mgf.R | Moment generating function |
+| eptw_entropy.R | Rényi entropy |
+| eptw_skewness.R | Galton skewness |
+| eptw_kurtosis.R | Moors kurtosis |
+| eptw_mle.R | Maximum likelihood estimation |
